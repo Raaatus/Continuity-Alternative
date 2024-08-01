@@ -4,10 +4,10 @@ Receive notifications from your social networks on an Android device and transmi
 
 We're copying a continuous Apple feature that lets you receive notifications from your phone on Windows.
 
-Note that this won't be possible from an iphone to a PC, but we do have a potential alternative. here.
+Note that this won't be possible from an iphone to a PC, but we do have a potential alternative. [here](./iOs-Iphone-user-en.md)
 
 [demo here](./img/demo.mp4)
-
+![demo ici](./img/demo.gif)
 
 ## How it works
 

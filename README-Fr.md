@@ -4,9 +4,10 @@ Recevez les notifications de vos réseaux sociaux sur un appareil Android et tra
 
 Nous copions une fonctionnalité continuity apple qui est de recevoir les notifications de votre téléphone sur vous Windows.
 
-Attention ce ne sera pas possible avec un iphone vers un Pc, mais nous avons quand même une potentielle alternative. ici.
+Attention ce ne sera pas possible avec un iphone vers un Pc, mais nous avons quand même une potentielle alternative. [ici](./iOs-Iphone-user.md).
 
 [demo ici](./img/demo.mp4)
+![demo ici](./img/demo.gif)
 
 
 ## Fonctionnement
