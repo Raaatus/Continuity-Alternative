@@ -1,0 +1,3 @@
+com.instagram.android
+com.snapchat.android
+message.ios.com

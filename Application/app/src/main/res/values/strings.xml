@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Continuity</string>
+    <string name="save">Save</string>
+    <string name="test_connection">Test Connection</string>
+</resources>
